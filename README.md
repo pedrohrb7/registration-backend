@@ -15,8 +15,8 @@ O sistema também conta com:
 - [x] Verificação de e-mail e tempo limite para confirmação
 - [X] Validação de e-mail já cadastrado
 
-## Testes
-
+## Ferramentas
+Para codificação utilizei o Intellij e para o banco de dados utilizei o Postgres
 Para testar utilizei a ferramenta Postman.
 
 ### Próximos passos
