@@ -16,7 +16,7 @@ O sistema também conta com:
 - [X] Validação de e-mail já cadastrado
 
 ## Ferramentas
-Para codificação utilizei o Intellij e para o banco de dados utilizei o Postgres
+Para codificação utilizei o Intellij e para o banco de dados utilizei o PostgreSQL
 Para testar utilizei a ferramenta Postman.
 
 ### Próximos passos
